@@ -30,4 +30,4 @@ I'm a Test Manager at Capgemini with over 10 years of experience in Software Qua
 
 📫 **Contactos**
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-pinto-92463687/)
-- ✉️ brunopinto@email.com *(substitui pelo teu email real se quiseres)*
+- ✉️ [Email](bruno_pinto_88@hotmail.com)
