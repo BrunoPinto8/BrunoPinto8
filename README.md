@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno Pinto
 
-## 🇵🇹 Sobre mim
+## Sobre mim
 Sou **Manager | Test Manager** na **Capgemini**, com mais de **uma década de experiência** em Qualidade e Testes de Software. Especialista em **gestão de equipas QA**, definição de **estratégias de teste**, **automação** e **melhoria contínua** em projetos internacionais.
 
 Além da gestão de testes, desempenho funções em **Operações** e **Pre-Sales**, incluindo:
@@ -19,7 +19,7 @@ Além da gestão de testes, desempenho funções em **Operações** e **Pre-Sale
 
 ---
 
-## 🇬🇧 About me
+## About me
 I'm a **Manager | Test Manager** at **Capgemini**, with over a **decade of experience** in Software Quality Assurance. I lead QA teams and design test strategies for complex projects, ensuring **efficiency, traceability, and continuous improvement**.
 
 Currently, I also contribute to **Operations and Pre-Sales**, focusing on:
