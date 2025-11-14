@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Bruno Pinto
 
 ## 🇵🇹 Sobre mim
-Sou **Senior Consultant | Test Manager** na **Capgemini**, com mais de **10 anos de experiência** em Qualidade e Testes de Software. Especialista em **gestão de equipas QA**, definição de **estratégias de teste**, **automação** e **melhoria contínua** em projetos internacionais.
+Sou **Manager | Test Manager** na **Capgemini**, com mais de **uma década de experiência** em Qualidade e Testes de Software. Especialista em **gestão de equipas QA**, definição de **estratégias de teste**, **automação** e **melhoria contínua** em projetos internacionais.
 
 Além da gestão de testes, desempenho funções em **Operações** e **Pre-Sales**, incluindo:
 - Gestão de oportunidades e planeamento de equipa
@@ -20,7 +20,7 @@ Além da gestão de testes, desempenho funções em **Operações** e **Pre-Sale
 ---
 
 ## 🇬🇧 About me
-I'm a **Senior Consultant | Test Manager** at **Capgemini**, with over **10 years of experience** in Software Quality Assurance. I lead QA teams and design test strategies for complex projects, ensuring **efficiency, traceability, and continuous improvement**.
+I'm a **Manager | Test Manager** at **Capgemini**, with over a **decade of experience** in Software Quality Assurance. I lead QA teams and design test strategies for complex projects, ensuring **efficiency, traceability, and continuous improvement**.
 
 Currently, I also contribute to **Operations and Pre-Sales**, focusing on:
 - Opportunity management and team planning
@@ -39,5 +39,5 @@ Currently, I also contribute to **Operations and Pre-Sales**, focusing on:
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/bruno-pinto-92463687/
-- ✉️ Email: bruno_pinto_88@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-pinto-92463687/)
+- ✉️ [Email](bruno_pinto_88@hotmail.com)
